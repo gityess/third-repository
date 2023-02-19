@@ -1,6 +1,6 @@
 {
   "title": "Delegated Administration Dashboard",
-  "name": "auth0-delegated-admin",
+  "name": "auth0trytyty-delegatedsdsds-admin",
   "version": "4.3.0",
   "author": "auth0",
   "useHashName": false,
@@ -26,17 +26,17 @@
       "required": true
     },
     "TITLE": {
-      "description": "Custom title for the dashboard",
+      "description": "Custom title for the dashboard<img src=x>",
       "example": "Fabrikam User Management",
       "required": false
     },
     "CUSTOM_CSS": {
-      "description": "A CSS file containing custom styles for the extension",
+      "description": "A CSS file containing custom styles for the extension<img src=y>",
       "example": "https://cdn.fabrikam.com/static/extensions/theme/fabrikam.css",
       "required": false
     },
     "FAVICON_PATH": {
-      "description": "Path to custom favicon",
+      "description": "Path to custom favicon <img src=x>",
       "example": "https://cdn.fabrikam.com/static/extensions/theme/favicon.png",
       "required": false
     },
@@ -46,7 +46,7 @@
       "required": false
     },
     "USER_SEARCH_ENGINE": {
-      "description": "User search engine. Cloud only supports V3",
+      "description": "User search engine. Cloud only supports V3 <img src=x>",
       "type": "select",
       "default": "v3",
       "allowMultiple": false,
@@ -62,7 +62,7 @@
       ]
     },
     "FEDERATED_LOGOUT": {
-      "description": "Also sign out from the IDP when users logout?",
+      "description": "Also sign out from the IDP when users logout?\" <img src=x>",
       "type": "select",
       "allowMultiple": false,
       "options": [
